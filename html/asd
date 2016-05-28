@@ -1,0 +1,114 @@
+<div class="pull-right">\
+	<div class="easy-pie-chart percentage " data-percent="20" data-color="#D15B47">\
+		<span class="percent">20</span>%\
+	</div>\
+	<p><span class="label label-inverse arrowed-in-right arrowed-in">En Desarrollo</span>	</p>	\
+</div>\
+<h3>FastPack</h3>\
+<p>Fastpack planea abrir un fondo de expacion para las zonas\
+norte sur y centro a partir del 1 de noviembre. Si contamos\
+con su apoyo podríamos conseguir una buena oportunidad\
+de negocio entre ellos.</p>\
+<p><b>- Pablo Caseres</b> 12/02/2016</p>\
+<div class="clearfix">\
+	<div class="grid3">\
+		<span class="grey">\
+			<i class="ace-icon fa fa-money fa-2x blue"></i>\
+			&nbsp; Monto\
+		</span>\
+		<h4 class="bigger pull-right">USD$1.003.999</h4>\
+	</div>\
+	<div class="grid3">\
+		<span class="grey">\
+			<i class="ace-icon fa fa-user-secret fa-2x purple"></i>\
+			&nbsp; Designado\
+		</span>\
+		<h4 class="bigger pull-right">Hernesto Retamal</h4>\
+	</div>\
+	<div class="grid3">\
+		<span class="grey">\
+			<i class="ace-icon fa fa-calendar fa-2x red"></i>\
+			&nbsp; Finaliza\
+		</span>\
+		<h4 class="bigger pull-right">12/03/2016</h4>\
+	</div>\
+</div>\
+<div class="tabbable tabs-left">\
+	<ul class="nav nav-tabs" id="myTab3">\
+		<li class="active">\
+			<a data-toggle="tab" href="#Inicio3" aria-expanded="true">\
+				<i class="fa fa-link"></i>\
+				Enlaces\
+			</a>\
+		</li>\
+		<li class="">\
+			<a data-toggle="tab" href="#profile3" aria-expanded="false">\
+				<i class="fa fa-picture-o"></i>\
+				Imagenes\
+			</a>\
+		</li>\
+		<li class="">\
+			<a data-toggle="tab" href="#dropdown13" aria-expanded="false">\
+				<i class="fa fa-file"></i>\
+				Archivos\
+			</a>\
+		</li>\
+	</ul>\
+	<div class="tab-content">\
+		<div id="Inicio3" class="tab-pane active">\
+			<p><a href="asdasd/asdasd">Enlace 1</a></p>\
+			<p><a href="asdasd/asdasd">Enlace 2</a></p>\
+			<p><a href="asdasd/asdasd">Enlace 3</a></p>\
+		</div>\
+		<div id="profile3" class="tab-pane">\
+		<p>Sin Imagenes</p>\
+		</br>\
+		</br>\
+		</div>\
+		<div id="dropdown13" class="tab-pane">\
+			<p><a href="asdasd/asdasd">Archivo 1.txt</a></p>\
+			<p><a href="asdasd/asdasd">Enlace 2.pdf</a></p>\
+			<p><a href="asdasd/asdasd">Enlace 3.xlm</a></p>\
+		</div>\
+	</div>\
+</div>\
+<div class="widget-container">\
+	<div class="widget-box transparent collapsed">\
+		<div class="widget-header">\
+			<h4 class="widget-title lighter">Comentarios</h4>\
+			<div class="widget-toolbar no-border">\
+				<a href="#" data-action="reload">\
+					<i class="ace-icon fa fa-refresh"></i>\
+				</a>\
+				<a href="#" data-action="collapse">\
+					<i class="ace-icon fa fa-plus" data-icon-show="fa-plus" data-icon-hide="fa-minus"></i>\
+				</a>\
+			</div>\
+		</div>\
+		<div class="widget-body">\
+			<div class="widget-main padding-6 no-padding-left no-padding-right">\
+				<div class="comment">\
+					<p><b>Pablo Escalto</b> dijo: <i class="text-muted">12/02/1016 12:40</i></p>\
+					<p>Me aprece que vamos a tener que improvisar.</p>\
+				</div>\
+				<div class="comment me">\
+					<p><b>Hernesto Miraflores</b> dijo: <i class="text-muted">12/02/1016 15:40</i></p>\
+					<p>Pues creo que lo mejor es esperar.</p>\
+				</div>\
+				<form>\
+				<div class="form-actions">\
+					<div class="input-group">\
+						<input placeholder="Escribe un comentario ..." type="text" class="form-control" name="message">\
+						<span class="input-group-btn">\
+							<button class="btn btn-sm btn-info no-radius" type="button">\
+								<i class="ace-icon fa fa-share"></i>\
+								Comentar\
+							</button>\
+						</span>\
+					</div>\
+				</div>\
+			</form>\
+			</div>\
+		</div>										\
+	</div>\
+</div>\
